@@ -1,0 +1,22 @@
+Name: 'Verify Stock # Rules Tab'
+Author: Vehicle Inventory
+Component: ''
+Feat: ''
+Priority: ''
+Summary: ''
+Steps:
+- Launch  web app ""https://api.tekion.xyz/vi/vehicles""
+- Click on menu icon
+- Verify Vechicle inventory label along with two sub labels
+- Vehicle inventory
+- Inventory Settings
+- Click Inventory setting Icon
+- 'Verify the Inventory setting Stock # Rules'
+Exit Criteria:
+- 'Stock # rules tab should be as per the VD'
+- 'Stock # Rules tab should be selected with Blue underline'
+Branch: ''
+Release: Release Version
+Type: ''
+Automated: ''
+Misc: ''
